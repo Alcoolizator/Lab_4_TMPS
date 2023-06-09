@@ -1,6 +1,5 @@
 # Lab_4_TMPS - Behavioral Patterns
-## by Agatiev Dumitru
-
+## by Plesca Alexandru
 
 ## Task : 
     1. Creating a new project or extending your last one project, implement at least 1 behavioral design pattern in your project.
